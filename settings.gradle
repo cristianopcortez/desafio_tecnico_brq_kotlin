@@ -1,0 +1,2 @@
+rootProject.name='Desafio BRQ Application Kotlin'
+include ':app'
